@@ -122,19 +122,7 @@ src/
 └── main.tsx           # Application entry point
 ```
 
-## 🚀 Deployment
 
-This project is configured for deployment on Netlify with the included `netlify.toml` file.
-
-### Build for production
-```bash
-npm run build
-```
-
-### Deploy to Netlify
-1. Connect your GitHub repository to Netlify
-2. Set environment variables in Netlify dashboard
-3. Deploy automatically on push to main branch
 
 ## 🤝 Contributing
 
