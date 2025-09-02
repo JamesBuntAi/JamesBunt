@@ -24,8 +24,6 @@ A modern AI-powered chat application built with React, TypeScript, and integrate
 - **Styling**: CSS with custom design system
 - **Database**: Supabase (PostgreSQL)
 - **Blockchain**: Solana Web3.js
-- **AI**: OpenRouter API
-- **Deployment**: Netlify
 
 ## 📋 Prerequisites
 
@@ -54,13 +52,7 @@ A modern AI-powered chat application built with React, TypeScript, and integrate
    ```
    
    Edit `.env` file with your actual values:
-   ```env
-   VITE_SUPABASE_URL=your_supabase_project_url_here
-   VITE_SUPABASE_ANON_KEY=your_supabase_anon_key_here
-   VITE_OPENROUTER_API_KEY=your_openrouter_api_key_here
-   VITE_OPENROUTER_MODEL=openrouter/auto
-   VITE_ADMIN_WALLET=your_admin_solana_wallet_address_here
-   ```
+   
 
 4. **Run the development server**
    ```bash
